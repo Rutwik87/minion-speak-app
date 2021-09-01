@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-
-
 body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -28,6 +26,7 @@ main {
 }
 
 textarea{
+    font-size: 1rem;
     box-sizing: border-box;
     display: block;
     border: 0;
@@ -49,7 +48,6 @@ textarea{
     background-color:#FFCC66 ;
     color: rgb(1, 1, 46);
     font-weight: 700;
-
 }
 
 footer{
